@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneSergiusz11
 - 👀 I’m interested in ... Programing
-- 🌱 I’m currently learning ... Unreal Engine
+- 🌱 I’m currently learning ... Web
 - 💞️ I’m looking to collaborate on ... My Corporation
 - 📫 How to reach me ... sergiusz.geniusz123@gmail.com
 
